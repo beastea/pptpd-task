@@ -1,9 +1,7 @@
 Requirements
 
 1. you need a terraform installed (https://github.com/hashicorp/terraform)
-
 2. you need a terraform-inventory installed (https://github.com/adammck/terraform-inventory)
-
 3. you need an Ansible installed (https://github.com/ansible/ansible)
 
 Running:
